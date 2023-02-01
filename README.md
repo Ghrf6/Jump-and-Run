@@ -1,7 +1,10 @@
 # Jump-and-Run
-![Jesse](images/Jesse%20Wetli.jpg)
-![Marwin](images/Kohl_Marwin_small.jpg)
-![Gino](images/Paganini_Gino_small.jpg)
-![Rilind](images/Rilind%20Haradini.jpg)
-![Dominik](images/Schweizer_Dominik_small.jpg)
+
+
 ### Mit Game Maker
+<br>
+
+GameMaker ist ein Programm, mit dem man Spiele ohne viel Programmier-Erfahrung machen kann. Es hat eine einfache Bedienung, bei der man mit der Maus Sachen hin- und herschiebt und es hat auch eine eigene Sprache namens GML, mit der man Regeln für das Spiel aufstellen kann. Mit GameMaker kann man Spiele für verschiedene Computer und Handys machen.
+
+![Game maker](images/GameMaker.jpg)
+
