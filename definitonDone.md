@@ -6,7 +6,7 @@
 2. Er muss seinen Zweck erfüllen
 3. Er muss von dem Team überprüft und auch auf mögliche Fehler überprüft werden
 
-## Srites
+## Sprites
 
 1. Sie müssen vom Team überprüft werden
 2. Sie müssen auf unsere eigen erstellte Namenskonvention angepasst sein
