@@ -28,7 +28,7 @@ Grobanforderung: |                  | Autor:             | Typ:
 Name:            | Spielmechanik    | Sandro Kohler | muss
 Beschreibung:    | Das Spiel muss eine einfach zu verwendende Steuerung haben. | 
 Name:            | Grafik           | Sandro Kohler |muss
-Beschreibung:    | Die Grafiken müssen attraktiv und in Übereinstimmung mit dem Thema des Spiels sein. |
+Beschreibung:    | Die Grafiken sind simpel und gut aussehend. |
 Name:            | Ziel des Spiels  | Sandro Kohler |muss
 Beschreibung:    | Das Spiel muss ein klares Ziel haben, das es dem Spieler ermöglicht, Fortschritte zu machen und das Spiel zu gewinnen. |
 Name:            | Sound und Musik  | Sandro Kohler |kann
