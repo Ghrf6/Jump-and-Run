@@ -40,7 +40,6 @@ Beschreibung:    | Das Spiel muss eine angemessene Hintergrundmusik und Soundeff
 
 
 ## 4.	Detailanforderungen
-Zu einer Anforderung gehört auch ein Abnahmekriterium, mit dessen Hilfe am Schluss des Projekts überprüft werden kann, ob das Produkt die Anforderungen erfüllt. Vermerken Sie auch ob es sich bei der Anforderung um eine optionale (kann) oder eine zu erfüllende (muss) Anforderung handelt. Referenzieren Sie jeweils die Grobanforderung, welche die Detailanforderung konkret behandelt und denken Sie daran, dass jede Anforderung eindeutig identifizierbar sein soll. Kopieren Sie die untenstehenden Tabellen für jede Anforderung die Sie formulieren können.
 
 
 Grobanforderung:   |                    | Detailanforderung: | Autor:             | Typ:  
