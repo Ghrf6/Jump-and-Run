@@ -29,7 +29,7 @@ Nutzen Sie hierzu diese Checkliste. Setzen Sie sich mit der Person(en) zusammen,
 - [ ]	Wer bekommt noch was (Leistung, Dokumente/Unterlagen) bis wann?
 
 ### EIGENE NOZIZEN
-…………………………………………………………………………………………………………………………………….
+- [x] Beispiel gecheckte Checkbox
 …………………………………………………………………………………………………………………………………….
 …………………………………………………………………………………………………………………………………….
 …………………………………………………………………………………………………………………………………….
