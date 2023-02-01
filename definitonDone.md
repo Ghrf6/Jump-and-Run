@@ -19,7 +19,7 @@
 
 ## Objekte
 
-1. Diese müsse nvom Team überprüft und auch akzeptiert werden
+1. Diese müssen vom Team überprüft und auch akzeptiert werden
 2. Diese müssen nach der Namenskonvention benannt sein
 
 ## Generell
