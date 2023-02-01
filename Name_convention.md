@@ -18,4 +18,4 @@
 - walk
 - sprint
 - jump
-- punsh
+- punch
