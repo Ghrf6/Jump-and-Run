@@ -1,0 +1,50 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.6",
+  "name": "test_GameMaker",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tilesets","folderPath":"folders/Tilesets.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Pfade","folderPath":"folders/Pfade.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Skripte","folderPath":"folders/Skripte.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shader","folderPath":"folders/Shader.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Schriftarten","folderPath":"folders/Schriftarten.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zeitlinien","folderPath":"folders/Zeitlinien.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objekte","folderPath":"folders/Objekte.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Räume","folderPath":"folders/Räume.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequenzen","folderPath":"folders/Sequenzen.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animationskurven","folderPath":"folders/Animationskurven.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notizen","folderPath":"folders/Notizen.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Erweiterungen","folderPath":"folders/Erweiterungen.yy","order":0,},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "MetaData": {
+    "IDEVersion": "2023.1.0.58",
+  },
+  "resources": [
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":0,},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":0,},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":0,},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":0,},
+    {"id":{"name":"Player_1_jump","path":"sprites/Player_1_jump/Player_1_jump.yy",},"order":0,},
+    {"id":{"name":"Raum1","path":"rooms/Raum1/Raum1.yy",},"order":0,},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Raum1","path":"rooms/Raum1/Raum1.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
