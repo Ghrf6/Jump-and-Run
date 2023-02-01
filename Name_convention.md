@@ -2,13 +2,12 @@
 
 ## rooms
 - backgroud_x
-- ground_x
 
 ## objects
 - standing_cube
 - floating_cube
 - moving_cube
-
+- ground_x
 
 ## sprites
 - player_x
