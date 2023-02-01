@@ -7,3 +7,5 @@ GameMaker ist ein Programm, mit dem man Spiele ohne viel Programmier-Erfahrung m
 
 ![Game maker](images/GameMaker.jpg)
 
+---
+<img src="Client/src/Images/Haueter_Nicolaj_small.jpg" alt="Nicolaj Haueter Mitglied" width="290" height="200">
