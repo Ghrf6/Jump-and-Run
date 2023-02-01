@@ -20,12 +20,13 @@ Nachdem wir die Aufgaben unter uns aufgeteilt und ins Kanban-Board eingetragen h
     -   hüpfen
     -   schlagen
 
-| Name     | Beschreibung                                              | Animation                                                         |
-| -------- | --------------------------------------------------------- | ----------------------------------------------------------------- | --- | --- | --- |
-| laufen   | Der Charakter läuft nach rechts oder links.               | Die Beine bewegen sich. 8 fps.                                    |     |     |     |
-| sprinten | Der Charakter läuft schneller nach rechts oder links.     | Die Beine und Ärme bewegen sich schneller als beim laufen. 8 fps. |     |     |     |
-| hüpfen   | Der Charakter springt nach oben.                          | Der ganze Körper bewegt sich. 8 fps.                              |     |     |     |
-| schlagen | Der Charakter schlägt die Gegner die ihm entgegen kommen. | Die Ärme und das Schwert bewegt sich. 8 fps.                      |
+| Name     | Beschreibung                                              | Animation                                                         
+| -------- | --------------------------------------------------------- | ----------------------------------------------------------------- 
+| laufen   | Der Charakter läuft nach rechts oder links.               | Die Beine bewegen sich. 8 fps.                                   
+| sprinten | Der Charakter läuft schneller nach rechts oder links.     | Die Beine und Ärme bewegen sich schneller als beim laufen. 8 fps. 
+| hüpfen   | Der Charakter springt nach oben.                          | Der ganze Körper bewegt sich. 8 fps.                             
+| schlagen | Der Charakter schlägt die Gegner die ihm entgegen kommen. | Die Ärme und das Schwert bewegt sich. 8 fps.                    
+
 
 -   Entwicklungsumgebung: GameMaker
 -   GML (GameMaker language angelehnt an Pascal, Java und C)
