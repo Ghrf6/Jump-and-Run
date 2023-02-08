@@ -35,13 +35,13 @@ Nachdem wir die Aufgaben unter uns aufgeteilt und ins Kanban-Board eingetragen h
 
 #### Phase 3
 
-###### Montag
+##### Montag
 
 Am Montagmorgen begannen wir mit einer kurzen Besprechung. Wir gingen unsere Aufgabenliste durch und machten uns sofort an die Arbeit. Sandro arbeitete an dem Grundbau des Spieles, das Jump and Run, und programmierte das Laufen, Springen und weitere Funktionen. Dominik designte verschiedene Sprites, unter anderem drei Herzen, die das Leben des Spielers symbolisierten. Rilind widmete sich dem Hintergrund des Spieles. Er schaute sich mehrere Tutorials zum Thema an und versuchte anschliessend, einen eigenen Hintergrund zu erstellen, was ihm auch erfolgreich gelang. Es war ein sehr produktiver Morgen. 
 
 Am Nachmittag arbeiteten alle konzentriert weiter. Rilind designte verschiedene Waffen und entschied sich letztendlich für die beste. Sandro programmierte die Schüsse der Waffe ebenso wie den Rückstoss beim Abfeuern. Ausserdem können jetzt Gegner eliminiert werden. Er implementierte auch, dass die Kamera beim Laufen mitgeht. Rilind und Dominik begannen anschliessend, die verschiedenen Levels zu designen. Sie schauten sich dazu zunächst Tutorials an und recherchiertne, wie dies funktioniert. Morgen werden sie damit fortsetzten. Wir sind sehr zufrieden mit unserer Leistung für den ersten Tag und sind auch sehr motiviert für diese Woche.
 
-###### Dienstag
+##### Dienstag
 
 Am Dienstag arbeiteten wir alle in Einzelarbeit. Rilind begann damit, die verschiedenen Levels zu designen. Erst musste er die Tiles im Internet suchen und importieren, was sich als schwierig nachwies, da es schwierig ist, diese kostenlos zu finden, jedoch fand er trotzdem kostenlose TileSets auf einer Webseite. Danach konnte er die Rooms (Levels) erstellen, wobei er zuerst ein leichteres und danach ein schwierigeres Level erstellte. Die Rooms wurden sehr gut designt. Sandro kümmerte sich um das Menü Screen mit der Save&Load-Funktion. Er erstellte ausserdem eine Transition zwischen den Leveln und dem Menü.
 
