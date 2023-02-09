@@ -41,6 +41,8 @@ Am Montagmorgen begannen wir mit einer kurzen Besprechung. Wir gingen unsere Auf
 
 Am Nachmittag arbeiteten alle konzentriert weiter. Rilind designte verschiedene Waffen und entschied sich letztendlich für die beste. Sandro programmierte die Schüsse der Waffe ebenso wie den Rückstoss beim Abfeuern. Ausserdem können jetzt Gegner eliminiert werden. Er implementierte auch, dass die Kamera beim Laufen mitgeht. Rilind und Dominik begannen anschliessend, die verschiedenen Levels zu designen. Sie schauten sich dazu zunächst Tutorials an und recherchiertne, wie dies funktioniert. Morgen werden sie damit fortsetzten. Wir sind sehr zufrieden mit unserer Leistung für den ersten Tag und sind auch sehr motiviert für diese Woche.
 
+![Bild](/images/Tag1.png)
+
 ##### Dienstag
 
 Am Dienstag arbeiteten wir alle in Einzelarbeit. Rilind begann damit, die verschiedenen Levels zu designen. Erst musste er die Tiles im Internet suchen und importieren, was sich als schwierig nachwies, da es schwierig ist, diese kostenlos zu finden, jedoch fand er trotzdem kostenlose TileSets auf einer Webseite. Danach konnte er die Rooms (Levels) erstellen, wobei er zuerst ein leichteres und danach ein schwierigeres Level erstellte. Die Rooms wurden sehr gut designt. Sandro kümmerte sich um das Menü Screen mit der Save&Load-Funktion. Er erstellte ausserdem eine Transition zwischen den Leveln und dem Menü.
