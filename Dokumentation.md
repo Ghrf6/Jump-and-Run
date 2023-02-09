@@ -53,4 +53,4 @@ Heute war der dritte Tag des Sportferien-Projekts, wir arbeiteten alle weiter an
 
 Eine andere Funktion, die Sandro hinzufügte, war ein Sprung-Puffer, dies dient dazu, dass wenn der Spieler schon von der Plattform herunterfällt, kann er noch springen. Ebenfalls laufen die Enemies jetzt nicht mehr von der Plattform herunter, sondern haben einen bestimmten Ort, an diesem sie sich bewegen. Dominik versuchte das Leitermovement zu verbessern, jedoch kam er nicht weiter, somit holte er sich Hilfe bei Fabian. Nachdem er es mit Fabian verbessert hatte, war er nicht ganz zufrieden, jedoch könnte man es so lassen. Rilind war schon recht weit mit dem neuen Level, an welchem er heute arbeitete. Insgesamt sind wir sehr zufrieden mit unserer Gruppe. Jeder arbeitet konzentriert und effizient an seinen Aufträgen und das Arbeitsklima ist sehr freundlich. Wir denken, dass dieses Projekt uns gelingen wird.
 
-![Bild]("[\images\asdf.png]")
+![Bild]("[/images/asdf.png]")
