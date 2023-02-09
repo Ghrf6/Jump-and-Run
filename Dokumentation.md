@@ -49,6 +49,8 @@ Am Dienstag arbeiteten wir alle in Einzelarbeit. Rilind begann damit, die versch
 
 Dominik hat sich mit der Entwicklung von Spiellevels und Tilesets beschäftigt. Er hat angefangen, ein Level-Design zu entwerfen, indem er einen Grundriss erstellt hat. Auch hat er damit begonnen, an einem Leitermovement zu arbeiten. Es ist eindrücklich, was man mit ein wenig Kreativität und technischem Wissen alles machen kann, um ein cooles Spielerlebnis zu schaffen. Zu guter Letzt errichtete Sandro noch einen Parallax Hintergrund für die Rooms. Kurz vor Feierabend dokumentierte Rilind den gestrigen und heutigen Tag. Dominik wird morgen weiter am Leitermovement arbeiten, da es nicht ganz fertiggestellt hat. Wir sind davon überzeugt, dass unsere Arbeiten einen positiven Einfluss auf das Spiel haben werden.
 
+![Bild](/images/Tag2.png)
+
 ##### Mittwoch
 
 Heute war der dritte Tag des Sportferien-Projekts, wir arbeiteten alle weiter an den Aufträgen, an diesen wir gestern stehen geblieben sind. Rilind versuchte zuerst ein paar Kleinigkeiten zu fixen, danach tauschten sich Sandro und er aus. Wir finden das Ergebnis bis jetzt sehr gut, jedoch gibt es noch Kleinigkeiten, die man noch verbessern kann. Wir fügten alle Maps zusammen und Rilind setzte fort mit einem neuem Room (Level). Sandro fügte neue Funktionen hinzu, zum Beispiel wenn man läuft, hört man die Schritte, wenn man mit der Waffe schiesst hört man die Schüsse des Gewehres und wenn die Gegner eliminiert werden, hört man Deathsounds.
