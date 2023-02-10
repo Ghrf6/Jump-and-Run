@@ -1,20 +1,84 @@
 # Namens Konvention
 
-## rooms
-- backgroud_x
+## Fonts
+- fMenu
+- fSign
 
-## objects
-- standing_cube
-- floating_cube
-- moving_cube
-- ground_x
+## Objects
+- oBullet
+- oCamera
+- oCrate
+- oDead
+- oDust
+- oEbullet
+- oEgun
+- oEnemy
+- oGame
+- oGun
+- oGunPickup
+- oHitSpark
+- oLadder
+- oLevelEnd
+- oMenu
+- oPDead
+- oPlayer
+- oTransition
+- oWall
+- oShootable
 
-## sprites
-- player_x
-- enemy_name
+## Rooms
+- rMenu
+- rOne
+- rTwo
+- rThree
+- rFour
+- rFive
+- rSix
+- rSeven
+- rEight
 
-## funktionen
-- walk
-- sprint
-- jump
-- punch
+## Scripts
+- ScreenShake
+- SlideTransition
+
+## Shaders
+- shWhite
+
+## Sounds
+- footstep1
+- footstep2
+- footstep3
+- footstep4
+- snDeath
+- snLanding
+- snShoot
+
+## Sprites
+- sPlayer
+- sPlayerA
+- sPlayerD
+- sPlayerD
+- sPlayerR
+- sEnemy
+- sEnemyA
+- sEnemyD
+- sEnemyR
+- sTiles
+- sTiles1
+- sMountain
+- sTree
+- sTrigger
+- sWall
+- sHitSpark
+- sGun
+- sEgun
+- sBullet
+- sEbullet
+- sDust
+- sCrate
+
+## Tile Sets
+- tTiles
+- tTiles1
+- tTiles2
+
