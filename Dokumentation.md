@@ -62,3 +62,5 @@ Eine andere Funktion, die Sandro hinzufügte, war ein Sprung-Puffer, dies dient 
 ##### Donnerstag
 
 Am Donnerstagmorgen besprachen wir als Erste unsere Aufgaben und teilten sie unter uns auf. Dominik stellte sein Level fertig, danach aktualisierte er das KanBan Board. Rilind begann mit der ergänzung der Dokumentation, indem er Bilder und Texte hinzufügte. Anschliessend beschäftigte er sich mit dem Design des nächsten Levels, da diese immer schwieriger werden und mehr Zeit brauchen. Sandro programmierte, dass die Gegner den Spieler eliminieren und schiessen können, ausserdem konnte man das Spiel jetzt auch im Vollbildmodus spielen. Zu guter Letzt wurde hinzugefügt, dass die Kill-Anzahl gezählt werden (pro Kill 1 Punkt). Soweit ist unser Teil gemacht. Morgen werden wir noch die letzten Fehler fixen und das Projekt bereit machen, um es unseren Teamkollegen zu übergeben, dass sie die nächste Woche weiter daran arbeiten können. Wir sind sehr zufrieden mit unserer Arbeit und denken, dass dieses Projekt uns gut gelingen wird.
+
+![Bild](/images/Level8.png)
