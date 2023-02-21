@@ -9,9 +9,9 @@ GameMaker ist ein Programm, mit dem man Spiele ohne viel Programmier-Erfahrung m
 
 ---
 ## Unser Projekt wird Präsentiert von:
-<img src="D:\02_ZLI (Lokal)\JumpAndRun\Jump-and-Run\images\Dominik Schweizer.jpg" alt="Dominik Schweizer" width="200" height="200">
+<img src="images\Dominik Schweizer.jpg" alt="Dominik Schweizer" width="200" height="200">
 
-<img src="D:\02_ZLI (Lokal)\JumpAndRun\Jump-and-Run\images\Marwin Kohl.jpg" alt="Dominik Schweizer" width="200" height="200">
+<img src="images\Marwin Kohl.jpg" alt="Dominik Schweizer" width="200" height="200">
 
 **Dominik Schweizer, Marwin Kohl**
 _API-1   
