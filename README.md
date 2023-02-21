@@ -17,17 +17,17 @@ GameMaker ist ein Programm, mit dem man Spiele ohne viel Programmier-Erfahrung m
 _API-1   
 API-1_
 
-<img src="D:\02_ZLI (Lokal)\JumpAndRun\Jump-and-Run\images\Jesse Wetli.jpg" alt="Dominik Schweizer" width="200" height="200">
+<img src="images\Jesse Wetli.jpg" alt="Dominik Schweizer" width="200" height="200">
 
-<img src="D:\02_ZLI (Lokal)\JumpAndRun\Jump-and-Run\images\Sandro Kohler.jpg" alt="Dominik Schweizer" width="200" height="200">
+<img src="images\Sandro Kohler.jpg" alt="Dominik Schweizer" width="200" height="200">
 
 **Sandro Kohler, Jesse Wetli**
 _API-2
 API-2_
 
-<img src="D:\02_ZLI (Lokal)\JumpAndRun\Jump-and-Run\images\Rilind Haradini.jpg" alt="Dominik Schweizer" width="200" height="200">
+<img src="images\Rilind Haradini.jpg" alt="Dominik Schweizer" width="200" height="200">
 
-<img src="D:\02_ZLI (Lokal)\JumpAndRun\Jump-and-Run\images\Gino Paganini.jpg" alt="Dominik Schweizer" width="200" height="200">
+<img src="images\Gino Paganini.jpg" alt="Dominik Schweizer" width="200" height="200">
 
 **Rilind Haradini, Gino Paganini**
 _API-2
