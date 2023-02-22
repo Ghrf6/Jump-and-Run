@@ -64,3 +64,26 @@ Eine andere Funktion, die Sandro hinzufügte, war ein Sprung-Puffer, dies dient 
 Am Donnerstagmorgen besprachen wir als Erste unsere Aufgaben und teilten sie unter uns auf. Dominik stellte sein Level fertig, danach aktualisierte er das KanBan Board. Rilind begann mit der ergänzung der Dokumentation, indem er Bilder und Texte hinzufügte. Anschliessend beschäftigte er sich mit dem Design des nächsten Levels, da diese immer schwieriger werden und mehr Zeit brauchen. Sandro programmierte, dass die Gegner den Spieler eliminieren und schiessen können, ausserdem konnte man das Spiel jetzt auch im Vollbildmodus spielen. Zu guter Letzt wurde hinzugefügt, dass die Kill-Anzahl gezählt werden (pro Kill 1 Punkt). Soweit ist unser Teil gemacht. Morgen werden wir noch die letzten Fehler fixen und das Projekt bereit machen, um es unseren Teamkollegen zu übergeben, dass sie die nächste Woche weiter daran arbeiten können. Wir sind sehr zufrieden mit unserer Arbeit und denken, dass dieses Projekt uns gut gelingen wird.
 
 ![Bild](/images/Level8.png)
+
+# Zweite Woche
+
+## Montag
+
+Heute haben wir das Projekt der Gruppe der ersten Woche übernommen was sehr gut funktioniert hat da wir GitHub benutzt haben und darum das ganze komprimierte GameMaker Projekt herunterladen konnten und mit GameMaker Studio 2 öffnen konnten. Wir haben zuerst geschaut was die erste Gruppe gemacht hat. Danach haben wir geschaut was wir noch hinzufügen könnten. Wir haben uns auf einen dash, ein Level screen, ein health system und einen secret boss geeinigt. Danach haben wir mal das Game gespielt und geschaut welche Bugs vorhanden sind und welche wir noch beheben möchten und was wir dagegen machen möchten. Danach hat Jesse an dem Dash gearbeitet und Gino hat sich entschieden mehr über GameMaker herauszufinden und Bugs zu beheben. Dabei war er erfolgreich und er konnte mehr über GameMaker herausfinden. Jesse hat danach an diesem Tag noch den Dash ferig gebracht und so ging der Tag dann auch schon zu Ende.
+
+## Dienstag
+
+An diesm Tag haben Gino und Jesse (war krank zu Hause aber hat trotzdem gearbeitet) an der Bullet logic und an den Herzen gearbeitet. Dabei war das Ziel, dass man in dem Game nicht nach jedem Schuss stirbt und auch, dass man Magazine aufsammeln kann. Das Magazin System habe ich mir überlegt, weil ich dachte, dass die Waffe zu OP (Overpowered) ist, damit man unendlich Bullets hat. Dann haben sich Gino und Jesse an die Arbeit gemacht und sie sind dabei mehreren Problemen begegnet GameMaker hat ab und zu ein paar Probleme gehabt aber sonst war alles okay wir mussten einfach wieder auf eine ältere Version zurückspringen und so ab dieser weiterarbeiten. Sonst war der Tag nichts spezielles und der Tag wurde erfolgreich abgeschlossen.
+
+## Mittwoch
+
+Heute haben Gino und Jesse an mehreren Bugs gearbeitet und Jesse war endlich wieder gesund und darum konnten beide wieder an dem Projekt weiterarbeiten. Heute ging es nur um das 8. Level, denn dieses war voller Bugs und an diesem Tag haben sie auch bemerkt, wieso das Game voller Bugs war, denn sie haben auf der falschen Verison gearbeitet aber dies wurde dann schnell behoben, denn wir haben einfach die Änderung von der anderen Version übernommen und so die ältere Version mit der neueren ausgeglichen. Das Problem war eigentlich, dass wenn wir 34 Objekte hatten, dann gingen unsere Physiks kaputt und so liess sich das beheben. Danach war der Tag auch schon zu Ende.
+
+## Donnerstag
+
+Heute haben Gino und Jesse an der Online Version des Spiels gearbeitet, welche nicht ganz funktioniert hat, denn es ist doch etwas schwerer als gedacht ein Singleplayer Game in ein Multiplayer Game zu verwandeln. Dabei hat Gino noch die weiteren Bugs behoben und Jesse hat danach den Multiplayer versucht zu implementieren aber dies hat nicht sehr gut funktioniert. Danach gab es noch weitere Bug fixxes und Gino und Jesse haben angefangen an dem Secret Boss zu arbeiten. Danach hat Jesse noch versucht eine Granate in das Spiel einzubauen und dann war der Tag zu Ende.
+
+## Freitag
+
+Heute haben Jesse und Gino an mehreren Dingen gearbeitet wie z.B. der Feinschliff des Games gearbeitet. Danach hat Gino noch am secret Boss gearbeitet und danach hat er verschiedene Bugs, welche in Verbindung mit dem Boss stehene behoben. Dann hat Jesse noch an der Granate gearbeitet aber diese stellete sich auch wieder schwerer hinaus als gedacht, denn es gab irgendwelche Kollisionen mit den Gegnern, welche nicht vorhergesehen waren und so neigte sich der Tag am Ende zu und die Granate funktionierte nicht.
+
