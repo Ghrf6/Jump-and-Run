@@ -65,6 +65,8 @@ Am Donnerstagmorgen besprachen wir als Erste unsere Aufgaben und teilten sie unt
 
 ![Bild](/images/Level8.png)
 
+---
+
 # Zweite Woche
 
 #### Montag
