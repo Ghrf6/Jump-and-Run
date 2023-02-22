@@ -79,7 +79,7 @@ Heute haben wir das Projekt der Gruppe der ersten Woche übernommen was sehr gut
 
 An diesm Tag haben Gino und Jesse (war krank zu Hause aber hat trotzdem gearbeitet) an der Bullet logic und an den Herzen gearbeitet. Dabei war das Ziel, dass man in dem Game nicht nach jedem Schuss stirbt und auch, dass man Magazine aufsammeln kann. Das Magazin System habe ich mir überlegt, weil ich dachte, dass die Waffe zu OP (Overpowered) ist, damit man unendlich Bullets hat. Dann haben sich Gino und Jesse an die Arbeit gemacht und sie sind dabei mehreren Problemen begegnet GameMaker hat ab und zu ein paar Probleme gehabt aber sonst war alles okay wir mussten einfach wieder auf eine ältere Version zurückspringen und so ab dieser weiterarbeiten. Sonst war der Tag nichts spezielles und der Tag wurde erfolgreich abgeschlossen.
 
-![Bild](/images/heartsAndBullets.png)
+![Bild](/images/heartsAndMagazines.png)
 
 #### Mittwoch
 
@@ -91,7 +91,7 @@ Heute haben Gino und Jesse an mehreren Bugs gearbeitet und Jesse war endlich wie
 
 Heute haben Gino und Jesse an der Online Version des Spiels gearbeitet, welche nicht ganz funktioniert hat, denn es ist doch etwas schwerer als gedacht ein Singleplayer Game in ein Multiplayer Game zu verwandeln. Dabei hat Gino noch die weiteren Bugs behoben und Jesse hat danach den Multiplayer versucht zu implementieren aber dies hat nicht sehr gut funktioniert. Danach gab es noch weitere Bug fixxes und Gino und Jesse haben angefangen an dem Secret Boss zu arbeiten. Danach hat Jesse noch versucht eine Granate in das Spiel einzubauen und dann war der Tag zu Ende.
 
-![Bild](/images/grenade.png)
+![Bild](/images/image (6).png)
 
 #### Freitag
 
