@@ -91,7 +91,7 @@ Heute haben Gino und Jesse an mehreren Bugs gearbeitet und Jesse war endlich wie
 
 Heute haben Gino und Jesse an der Online Version des Spiels gearbeitet, welche nicht ganz funktioniert hat, denn es ist doch etwas schwerer als gedacht ein Singleplayer Game in ein Multiplayer Game zu verwandeln. Dabei hat Gino noch die weiteren Bugs behoben und Jesse hat danach den Multiplayer versucht zu implementieren aber dies hat nicht sehr gut funktioniert. Danach gab es noch weitere Bug fixxes und Gino und Jesse haben angefangen an dem Secret Boss zu arbeiten. Danach hat Jesse noch versucht eine Granate in das Spiel einzubauen und dann war der Tag zu Ende.
 
-![Bild](/images/image (6).png)
+![Bild](/images/jörg.png)
 
 #### Freitag
 
