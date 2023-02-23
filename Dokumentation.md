@@ -71,7 +71,7 @@ Heute setzten wir uns zusammen in der Gruppe und fixten die letzten Fehler im Sp
 
 ---
 
-# Zweite Woche
+#### Phase 4
 
 #### Montag
 
