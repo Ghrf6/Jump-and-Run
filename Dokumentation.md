@@ -65,8 +65,6 @@ Am Donnerstagmorgen besprachen wir als Erste unsere Aufgaben und teilten sie unt
 
 ![Bild](/images/Level8.png)
 
----
-
 ##### Freitag
 
 Heute setzten wir uns zusammen in der Gruppe und fixten die letzten Fehler im Spiel. Danach führten wir noch die Dokumentation nach. Später mussten wir noch eine kurze Erklärung des Spiels machen, damit die anderen Gruppenmitglieder sauber und verständlich ins Projekt nächste Woche starten können. Somit gingen wir unbesorgt in die Ferien.
